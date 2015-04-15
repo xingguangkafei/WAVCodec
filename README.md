@@ -1,2 +1,2 @@
 # WAVCodec
- library(c++ dll) for reading and writing WAV file
+ c++ libraryfor reading and writing WAV file
